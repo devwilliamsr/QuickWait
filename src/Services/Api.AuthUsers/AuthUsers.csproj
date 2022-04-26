@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Sentry" Version="3.16.0" />
     <PackageReference Include="Sentry.AspNetCore" Version="3.16.0" />
   </ItemGroup>
 
