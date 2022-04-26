@@ -20,6 +20,15 @@ namespace AuthUsers
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    webBuilder.UseSentry(o =>
+                    {
+                        o.Dsn = "https://71f0b1dff3b146d18d52fdde5450a54b@o1220708.ingest.sentry.io/6363814";
+                        // When configuring for the first time, to see what the SDK is doing:
+                        o.Debug = true;
+                        // Set TracesSampleRate to 1.0 to capture 100% of transactions for performance monitoring.
+                        // We recommend adjusting this value in production.
+                        o.TracesSampleRate = 1.0;
+                    });
                     webBuilder.UseStartup<Startup>();
                 });
     }

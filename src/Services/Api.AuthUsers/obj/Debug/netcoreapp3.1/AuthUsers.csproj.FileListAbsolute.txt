@@ -18,3 +18,9 @@ C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcor
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.dll
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcoreapp3.1\Sentry.dll
+C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.csproj.CopyComplete
+C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcoreapp3.1\Sentry.AspNetCore.dll
+C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcoreapp3.1\Sentry.Extensions.Logging.dll
