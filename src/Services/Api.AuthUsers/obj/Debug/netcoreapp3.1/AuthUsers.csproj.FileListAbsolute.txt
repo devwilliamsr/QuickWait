@@ -7,7 +7,6 @@ C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcor
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcoreapp3.1\AuthUsers.runtimeconfig.dev.json
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcoreapp3.1\AuthUsers.dll
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcoreapp3.1\AuthUsers.pdb
-C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.csprojAssemblyReference.cache
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.AssemblyInfo.cs
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.csproj.CoreCompileInputs.cache
@@ -24,3 +23,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcor
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.csproj.CopyComplete
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcoreapp3.1\Sentry.AspNetCore.dll
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\bin\Debug\netcoreapp3.1\Sentry.Extensions.Logging.dll
+C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.csproj.AssemblyReference.cache

@@ -11,7 +11,5 @@ namespace Api.AuthUsers.Controllers
             _logger = logger;
         }
 
-        [HttpPost]
-
     }
 }

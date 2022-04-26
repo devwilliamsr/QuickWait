@@ -1,43 +1,42 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{205EEEEE-F835-4397-A328-BED31EB8BB3D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{4FE51D39-7A79-4775-8056-5AC924E0FEBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentSchedulings", "src\Services\Api.AppointmentSchedulings\AppointmentSchedulings.csproj", "{AB3EF9B2-A0DC-4744-9AB0-43151FCF7228}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppointmentSchedulings", "src\Services\Api.AppointmentSchedulings\AppointmentSchedulings.csproj", "{AB3EF9B2-A0DC-4744-9AB0-43151FCF7228}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthUsers", "src\Services\Api.AuthUsers\AuthUsers.csproj", "{9E588ECE-BE36-40DE-928E-5A8E5D40915F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthUsers", "src\Services\Api.AuthUsers\AuthUsers.csproj", "{9E588ECE-BE36-40DE-928E-5A8E5D40915F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "src\Services\Api.Gateway\ApiGateway.csproj", "{CFE83CCE-9988-4B59-BDA7-B143F14587EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway", "src\Services\Api.Gateway\ApiGateway.csproj", "{CFE83CCE-9988-4B59-BDA7-B143F14587EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalQueues", "src\Services\Api.HospitalQueues\HospitalQueues.csproj", "{5DE220BD-1AA3-4418-B40D-47B00E1208DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HospitalQueues", "src\Services\Api.HospitalQueues\HospitalQueues.csproj", "{5DE220BD-1AA3-4418-B40D-47B00E1208DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospitals", "src\Services\Api.Hospitals\Hospitals.csproj", "{59F3E0EA-8C21-4E79-AD96-DED9F6F2CEE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospitals", "src\Services\Api.Hospitals\Hospitals.csproj", "{59F3E0EA-8C21-4E79-AD96-DED9F6F2CEE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News", "src\Services\Api.News\News.csproj", "{E00C6F0D-7A45-47DA-B847-0BC6CD3DE721}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "News", "src\Services\Api.News\News.csproj", "{E00C6F0D-7A45-47DA-B847-0BC6CD3DE721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfileUsers", "src\Services\Api.ProfileUsers\ProfileUsers.csproj", "{8365CB70-C728-40E8-9BAF-2F2DAD87491F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProfileUsers", "src\Services\Api.ProfileUsers\ProfileUsers.csproj", "{8365CB70-C728-40E8-9BAF-2F2DAD87491F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remedies", "src\Services\Api.Remedies\Remedies.csproj", "{5CB81CBD-96D0-43A2-8795-C3650533BF13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remedies", "src\Services\Api.Remedies\Remedies.csproj", "{5CB81CBD-96D0-43A2-8795-C3650533BF13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReminderRemedies", "src\Services\Api.ReminderRemedies\ReminderRemedies.csproj", "{EA2FD6EB-3AA0-4FDE-8B78-AB963B220BE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReminderRemedies", "src\Services\Api.ReminderRemedies\ReminderRemedies.csproj", "{EA2FD6EB-3AA0-4FDE-8B78-AB963B220BE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesSchedules", "src\Services\Api.ServicesSchedules\ServicesSchedules.csproj", "{9182E597-74F4-4FFB-9B4E-44ACD5E85516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicesSchedules", "src\Services\Api.ServicesSchedules\ServicesSchedules.csproj", "{9182E597-74F4-4FFB-9B4E-44ACD5E85516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specialities", "src\Services\Api.Specialities\Specialities.csproj", "{688CA304-42EB-49C2-A476-C2D2E14927B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Specialities", "src\Services\Api.Specialities\Specialities.csproj", "{688CA304-42EB-49C2-A476-C2D2E14927B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuportRequests", "src\Services\Api.SuportRequests\SuportRequests.csproj", "{2A218661-52A7-40A3-B91D-3A7A75163861}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuportRequests", "src\Services\Api.SuportRequests\SuportRequests.csproj", "{2A218661-52A7-40A3-B91D-3A7A75163861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\Domain\Domain.csproj", "{81F84B5C-7F08-4C9C-A65D-D090A68C0DF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AB3EF9B2-A0DC-4744-9AB0-43151FCF7228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -88,6 +87,13 @@ Global
 		{2A218661-52A7-40A3-B91D-3A7A75163861}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A218661-52A7-40A3-B91D-3A7A75163861}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A218661-52A7-40A3-B91D-3A7A75163861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F84B5C-7F08-4C9C-A65D-D090A68C0DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F84B5C-7F08-4C9C-A65D-D090A68C0DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F84B5C-7F08-4C9C-A65D-D090A68C0DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F84B5C-7F08-4C9C-A65D-D090A68C0DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4FE51D39-7A79-4775-8056-5AC924E0FEBC} = {205EEEEE-F835-4397-A328-BED31EB8BB3D}
@@ -103,5 +109,9 @@ Global
 		{9182E597-74F4-4FFB-9B4E-44ACD5E85516} = {4FE51D39-7A79-4775-8056-5AC924E0FEBC}
 		{688CA304-42EB-49C2-A476-C2D2E14927B0} = {4FE51D39-7A79-4775-8056-5AC924E0FEBC}
 		{2A218661-52A7-40A3-B91D-3A7A75163861} = {4FE51D39-7A79-4775-8056-5AC924E0FEBC}
+		{81F84B5C-7F08-4C9C-A65D-D090A68C0DF4} = {4FE51D39-7A79-4775-8056-5AC924E0FEBC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D8CDD8B-935C-456C-973A-7B066C9C2725}
 	EndGlobalSection
 EndGlobal
