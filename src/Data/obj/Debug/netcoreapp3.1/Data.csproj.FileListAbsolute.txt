@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\QuickWait\src\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\DELL\source\repos\QuickWait\src\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\DELL\source\repos\QuickWait\src\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\DELL\source\repos\QuickWait\src\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\QuickWait\src\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QuickWait\src\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QuickWait\src\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QuickWait\src\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\DELL\source\repos\QuickWait\src\Data\obj\Debug\netcoreapp3.1\Data.pdb
