@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AA2y0qAz1GvwC/dZt5s1RnWgRrJBBqknT7cJ4DSXNtEvpRPeO9Mowe0wtCOmxJ0brcBkeu1dAybE//E6RvAuGg==",
+  "dgSpecHash": "MTrgpXHQHi0L5YYH0n+/+ar4rZb2g9V1UwHT2s0KHMDDQ4GCmD8rl5sgRAayRMwSSPYRQ8DbL7O/1q/k8b7SQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.Hospitals\\Hospitals.csproj",
+  "projectFilePath": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.Hospitals\\Hospitals.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",

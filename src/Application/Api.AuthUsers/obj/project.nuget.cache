@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tlTxWs3dvQdiLhIo2yv/nuayY8RJJQx/nUqTBARKvYjgnzz9LacjamtD4Ifowhh/4RPbFR4RJExcYNndM035lA==",
+  "dgSpecHash": "uxZTYSL3CLnEPzrPjYfMZxB2SLH74Qx204yEzm0dF8rGyc2Qvi4fCZY1fZBISDZr2LFT9AQ/+U3YA/hlj4XmmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.AuthUsers\\AuthUsers.csproj",
+  "projectFilePath": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.AuthUsers\\AuthUsers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",

@@ -32,7 +32,6 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debu
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\Sentry.Extensions.Logging.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.csproj.AssemblyReference.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.AssemblyInfo.cs
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.csproj.CoreCompileInputs.cache
@@ -44,3 +43,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debu
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.csprojAssemblyReference.cache

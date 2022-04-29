@@ -31,7 +31,6 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netc
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\Sentry.Extensions.Logging.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.csproj.AssemblyReference.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.AssemblyInfo.cs
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.csproj.CoreCompileInputs.cache

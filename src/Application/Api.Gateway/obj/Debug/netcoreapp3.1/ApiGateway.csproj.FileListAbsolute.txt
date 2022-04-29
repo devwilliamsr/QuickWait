@@ -32,7 +32,6 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netco
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\Sentry.Extensions.Logging.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.AssemblyReference.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.AssemblyInfo.cs
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.CoreCompileInputs.cache
@@ -44,3 +43,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netco
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.csprojAssemblyReference.cache

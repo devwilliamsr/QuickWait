@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GB1+gyEPKg0sGBabTGlEt7IQxnk1Rzgy9d9f6tg2FRvMjDnhHomsPgSkJ154Iqr0QRzpKMfbWWVv9z0I1oqc2w==",
+  "dgSpecHash": "d0zStHgWw3hNMOArUKzbpRBHBSjXdh38Sk4+D+NW31VeMI8PYJmbbPGj85/8NuhRqC2D5iY8zou8O/019PDWaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.Remedies\\Remedies.csproj",
+  "projectFilePath": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.Remedies\\Remedies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
