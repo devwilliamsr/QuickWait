@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3RDv6aszQswLq3tSla3Up6TLx/SPwb8b5TpvkqWl+LB5Zv1jFZSoe4FFtu7zvfb4x5rJUFzNqDY9aXzWAw3HEg==",
+  "dgSpecHash": "N4jXjGiQOo3OiJI/OOiYHZYpYKyPVgtIpc4PBQwr2sCIoWgK7Fj0+siUk4kec1p3gW0NALgG8yoSsrCLcODQMg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.ProfileUsers\\ProfileUsers.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.ProfileUsers\\ProfileUsers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",

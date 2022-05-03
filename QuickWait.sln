@@ -43,7 +43,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Specialities", "src\Applica
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuportRequests", "src\Application\Api.SuportRequests\SuportRequests.csproj", "{00281700-5BC1-40DD-9EA9-58F6AC1EEF81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "src\Services\Services.csproj", "{B8A44577-7A97-46A0-9E63-4AC529B5DD9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "src\Services\Services.csproj", "{B8A44577-7A97-46A0-9E63-4AC529B5DD9B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{D58DD238-DC81-40B8-939C-A088C89D35C1}"
 EndProject

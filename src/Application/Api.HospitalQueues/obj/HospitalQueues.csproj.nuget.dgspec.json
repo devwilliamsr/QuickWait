@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\HospitalQueues.csproj": {}
+    "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\HospitalQueues.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\HospitalQueues.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\HospitalQueues.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\HospitalQueues.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\HospitalQueues.csproj",
         "projectName": "HospitalQueues",
-        "projectPath": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\HospitalQueues.csproj",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\HospitalQueues.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Sentry.AspNetCore": {
               "target": "Package",

@@ -947,6 +947,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Domain\\Domain.csproj"
@@ -962,6 +963,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",

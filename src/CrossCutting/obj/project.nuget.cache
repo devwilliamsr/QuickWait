@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CWlKHBZRnHqGCvP1FyminG9wZwhNeeCuXT+S193oB/CP7/6K/5ZOhysf6Qd6HgG5NilihUSsU2+cU5RpjS0GRQ==",
+  "dgSpecHash": "1RVufM21PRHutc9alzFAOFcE1sSb0dcCyUTLWN3XBa5ZRa2oXJraKiOU2IzpcKKDdQ6zVlgyuoNcC0n1LoUXXA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

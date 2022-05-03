@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Services\\Services.csproj": {}
+    "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Services\\Services.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Services\\Services.csproj": {
+    "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Services\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
