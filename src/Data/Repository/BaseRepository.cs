@@ -15,15 +15,11 @@ namespace Data.Repository
         private readonly ILogger<T> _logger;
         private DbSet<T> _dataset;
         
-        public BaseRepository(ILogger<T> logger)
-        {
-            _logger = logger;
-        }
-
-        public BaseRepository(MyContext context)
+        public BaseRepository(MyContext context, ILogger<T> logger)
         {
             _context = context;
             _dataset = _context.Set<T>();
+            _logger = logger;
 
         }
 
