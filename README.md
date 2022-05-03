@@ -1,7 +1,7 @@
 # Quick Wait
 
 
-Projeto executado e proposto no Boot Camp da Framework Digital.
+Projeto executado e proposto no Boot Camp da Framework Digital (https://www.frameworkdigital.com.br/).
 
 Sabemos que o tempo de espera em filas do hospital é preocupante, com isso em mente nosso aplicativo visa mostrar ao usuário em tempo real quantas pessoas já passaram pela triagem do hospital, a capacidade máxima da ocupação do mesmo. Indicando o paciente ao hospital mais próximo a seu local atual, informando qual está com menores ocupações, diminuindo a superlotação dos postos de saúde e a espera dos pacientes em filas.
 
