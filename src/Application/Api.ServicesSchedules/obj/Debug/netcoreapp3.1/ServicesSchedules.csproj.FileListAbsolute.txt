@@ -42,3 +42,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\D
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.csproj.AssemblyReference.cache

@@ -43,4 +43,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debu
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.genruntimeconfig.cache
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.csproj.AssemblyReference.cache

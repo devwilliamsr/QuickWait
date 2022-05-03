@@ -42,3 +42,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netc
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.csproj.AssemblyReference.cache

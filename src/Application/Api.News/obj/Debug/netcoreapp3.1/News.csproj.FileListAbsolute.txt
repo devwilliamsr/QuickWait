@@ -42,4 +42,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcorea
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.genruntimeconfig.cache
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.csproj.AssemblyReference.cache

@@ -42,3 +42,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ProfileUsers\obj\Debug\
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ProfileUsers\obj\Debug\netcoreapp3.1\ProfileUsers.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ProfileUsers\obj\Debug\netcoreapp3.1\ProfileUsers.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ProfileUsers\obj\Debug\netcoreapp3.1\ProfileUsers.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ProfileUsers\obj\Debug\netcoreapp3.1\ProfileUsers.csproj.AssemblyReference.cache

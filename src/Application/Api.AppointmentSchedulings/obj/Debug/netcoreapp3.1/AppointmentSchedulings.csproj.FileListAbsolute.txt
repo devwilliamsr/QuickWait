@@ -43,4 +43,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.genruntimeconfig.cache
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.csproj.AssemblyReference.cache

@@ -42,3 +42,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.SuportRequests\obj\Debu
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.SuportRequests\obj\Debug\netcoreapp3.1\SuportRequests.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.SuportRequests\obj\Debug\netcoreapp3.1\SuportRequests.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.SuportRequests\obj\Debug\netcoreapp3.1\SuportRequests.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.SuportRequests\obj\Debug\netcoreapp3.1\SuportRequests.csproj.AssemblyReference.cache

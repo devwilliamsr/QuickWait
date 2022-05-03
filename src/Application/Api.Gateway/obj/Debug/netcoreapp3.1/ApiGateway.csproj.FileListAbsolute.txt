@@ -43,4 +43,4 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netco
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.genruntimeconfig.cache
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.csproj.AssemblyReference.cache
