@@ -1,0 +1,28 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/weatherforecast",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 42431
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/weatherforecast",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 59551
+        }
+      ],
+      "DownstreamPathTemplate": "/teste",
+      "DownstreamScheme": "http",
+      "UpstreamHttpMethod": [ "GET" ],
+      "UpstreamPathTemplate": "/gateway/teste"
+    }
+  ]
+}

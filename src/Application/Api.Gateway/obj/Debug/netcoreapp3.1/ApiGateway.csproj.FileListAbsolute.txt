@@ -44,3 +44,14 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netco
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Gateway\obj\Debug\netcoreapp3.1\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
