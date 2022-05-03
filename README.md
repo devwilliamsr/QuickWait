@@ -17,11 +17,17 @@ Propósito: Minimizar o tempo de espera em postos de saúde e hospitais.
 
 ## Tecnologias e arquitetura (Back end)
 Plataforma: Asp.Net Core 3.1
+
 Logs: Sentry
+
 Linguagem: C# 
+
 API Gateway: Ocelot
+
 Design: DDD
+
 Docker
+
 Banco de dados: Postgres
 
 ## Considerações finais
