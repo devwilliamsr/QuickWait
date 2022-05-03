@@ -31,6 +31,7 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\bin\Debug\netcorea
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\bin\Debug\netcoreapp3.1\Sentry.Extensions.Logging.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.csproj.AssemblyReference.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.AssemblyInfo.cs
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.csproj.CoreCompileInputs.cache
@@ -42,4 +43,3 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcorea
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.genruntimeconfig.cache
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.News\obj\Debug\netcoreapp3.1\News.csproj.AssemblyReference.cache

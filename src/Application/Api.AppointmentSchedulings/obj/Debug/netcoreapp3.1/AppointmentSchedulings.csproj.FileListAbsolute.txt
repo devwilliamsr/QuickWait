@@ -32,6 +32,7 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\Sentry.Extensions.Logging.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.csproj.AssemblyReference.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.AssemblyInfoInputs.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.AssemblyInfo.cs
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.csproj.CoreCompileInputs.cache
@@ -43,4 +44,3 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.genruntimeconfig.cache
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.csproj.AssemblyReference.cache
