@@ -15,5 +15,10 @@
     <ProjectReference Include="..\..\Services\Services.csproj" />
   </ItemGroup>
 
+  <!--Para documentar o Swagger-->
+  <PropertyGroup>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
 
 </Project>

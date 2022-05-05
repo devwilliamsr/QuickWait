@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AuthUsers</name>
+    </assembly>
+    <members>
+        <member name="M:AuthUsers.Controllers.SignUpController.Post(Domain.DTOs.AuthUsers.SignUp.SignUpRequest)">
+             <summary>
+             Creates a User.
+             </summary>
+             <param name="user"></param>
+             <returns>A newly created User</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /Todo
+                 {
+                    "username": "william",
+                    "email": "william@william.com",
+                    "birthDate": "10/09/1991",
+                    "cpf": "40953528847",
+                    "phoneNumber": "11971816381",
+                    "password": "123456"
+                 }
+            
+             </remarks>
+             <response code="201">Returns the newly created item</response>
+             <response code="400">If the item is null</response>
+        </member>
+    </members>
+</doc>

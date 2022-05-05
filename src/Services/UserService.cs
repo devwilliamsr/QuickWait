@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Domain.DTOs.AuthUsers.SignUp;
+using Domain.Entities;
 using Domain.Interfaces;
 using Domain.Interfaces.Services.User;
 using Microsoft.AspNetCore.Cryptography.KeyDerivation;
@@ -29,7 +30,7 @@ namespace Services
             return await _repository.SelectAsync(id);
         }
 
-        public async Task<UserEntity> Post(UserEntity user)
+        public async Task<UserEntity> Post(SignUpRequest user)
         {
             byte[] salt = new byte[128 / 8];
 
@@ -39,6 +40,9 @@ namespace Services
                 prf: KeyDerivationPrf.HMACSHA256,
                 iterationCount: 100000,
                 numBytesRequested: 256 / 8));
+
+            var users = new UserEntity();
+            
 
             return await _repository.InsertAsync(user);
         }

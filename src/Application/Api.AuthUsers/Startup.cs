@@ -1,11 +1,12 @@
 using CrossCutting.DependencyInjection;
-using Data.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.EntityFrameworkCore;
+using System.Reflection;
+using System.IO;
+using System;
 
 namespace AuthUsers
 {
@@ -31,6 +32,9 @@ namespace AuthUsers
                     Version = "v1",
                     Description = "API Destinada ao consumo do aplicativo Mobile e camada front end."
                 });
+
+                var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                c.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
             });
             services.AddControllers();
         }
