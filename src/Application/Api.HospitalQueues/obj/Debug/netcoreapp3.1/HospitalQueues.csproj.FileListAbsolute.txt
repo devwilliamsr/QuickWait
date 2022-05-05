@@ -18,6 +18,15 @@ C:\Users\DELL\source\repos\QuickWait\src\Services\Api.HospitalQueues\obj\Debug\n
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.dll
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\HospitalQueues.exe
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\HospitalQueues.deps.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\HospitalQueues.runtimeconfig.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\HospitalQueues.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\HospitalQueues.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\HospitalQueues.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -62,5 +71,8 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debu
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.RazorTargetAssemblyInfo.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.csproj.CopyComplete
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\staticwebassets\HospitalQueues.StaticWebAssets.Manifest.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\staticwebassets\HospitalQueues.StaticWebAssets.xml
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.pdb
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.HospitalQueues\obj\Debug\netcoreapp3.1\HospitalQueues.genruntimeconfig.cache

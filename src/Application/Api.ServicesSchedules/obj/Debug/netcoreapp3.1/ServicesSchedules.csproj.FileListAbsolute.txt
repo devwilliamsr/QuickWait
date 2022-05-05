@@ -17,6 +17,15 @@ C:\Users\DELL\source\repos\QuickWait\src\Services\Api.ServicesSchedules\obj\Debu
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.dll
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\ServicesSchedules.exe
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\ServicesSchedules.deps.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\ServicesSchedules.runtimeconfig.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\ServicesSchedules.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\ServicesSchedules.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\ServicesSchedules.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -61,5 +70,8 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\D
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.RazorTargetAssemblyInfo.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.csproj.CopyComplete
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\staticwebassets\ServicesSchedules.StaticWebAssets.Manifest.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\staticwebassets\ServicesSchedules.StaticWebAssets.xml
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.pdb
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.ServicesSchedules\obj\Debug\netcoreapp3.1\ServicesSchedules.genruntimeconfig.cache

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EU2oPJuRXMkxBqTLKRVbRIBIaUzuxCHPurJHGfHcie6tsiKZfbT0HzN96I9sp4/TyqYn3pksUeq0csDbwAyAYg==",
+  "dgSpecHash": "r8gz8BMl+ZgWVyPzoRp/PFSjp2Al4XsYfEh2DXCKy4eBjgvky2HwCw8X+4/IYII1xB3XizG+FQuIEhe5QhewJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.Gateway\\ApiGateway.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.24\\microsoft.aspnetcore.cryptography.internal.3.1.24.nupkg.sha512",

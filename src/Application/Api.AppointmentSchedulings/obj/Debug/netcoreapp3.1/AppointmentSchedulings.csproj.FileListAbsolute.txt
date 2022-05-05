@@ -18,6 +18,15 @@ C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AppointmentSchedulings\obj
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.dll
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\AppointmentSchedulings.exe
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\AppointmentSchedulings.deps.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\AppointmentSchedulings.runtimeconfig.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\AppointmentSchedulings.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\AppointmentSchedulings.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\AppointmentSchedulings.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -62,5 +71,8 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.RazorTargetAssemblyInfo.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.csproj.CopyComplete
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\staticwebassets\AppointmentSchedulings.StaticWebAssets.Manifest.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\staticwebassets\AppointmentSchedulings.StaticWebAssets.xml
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.pdb
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AppointmentSchedulings\obj\Debug\netcoreapp3.1\AppointmentSchedulings.genruntimeconfig.cache

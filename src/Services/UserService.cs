@@ -30,7 +30,7 @@ namespace Services
             return await _repository.SelectAsync(id);
         }
 
-        public async Task<UserEntity> Post(SignUpRequest user)
+        public async Task<UserEntity> Post(UserEntity user)
         {
             byte[] salt = new byte[128 / 8];
 

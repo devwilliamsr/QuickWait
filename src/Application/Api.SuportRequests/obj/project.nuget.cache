@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "W9MfUtF7yIiqUjdsaII7N/9dBXnDD0K9lwSvIQLv2Th+JhGJNWJbxT60EFEuvA98dhKRRvdrlRrGLjC33NkSrw==",
+  "dgSpecHash": "jkWGf04CJ7p/9hnEY7b7ju0JuC3SVjEZgLC40CY7aLe9lU1al96h2kecpr5G+Uwopg0xlVxLCOswT9lx1DnjAA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.SuportRequests\\SuportRequests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.24\\microsoft.aspnetcore.cryptography.internal.3.1.24.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.24\\microsoft.aspnetcore.cryptography.keyderivation.3.1.24.nupkg.sha512",

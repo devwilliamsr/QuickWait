@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+Y1YaXMYdmgRiAFZSog4VJPsQ2wPhfq35BpD59/kzIE6nVilHwf4QkMAfLJdmcZpvidfXzqkzH+etdTD7HY05Q==",
+  "dgSpecHash": "zyQe1wW5H35jyIMylrg6X8YOzZByTgXHBoMQtetFhma8XY4UOiHYE2nxSTXP00In45zoYB2YRyC8/ruXupMQCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\source\\repos\\QuickWait\\src\\Application\\Api.HospitalQueues\\HospitalQueues.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.24\\microsoft.aspnetcore.cryptography.internal.3.1.24.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.24\\microsoft.aspnetcore.cryptography.keyderivation.3.1.24.nupkg.sha512",

@@ -4,7 +4,7 @@
         <name>AuthUsers</name>
     </assembly>
     <members>
-        <member name="M:AuthUsers.Controllers.SignUpController.Post(Domain.DTOs.AuthUsers.SignUp.SignUpRequest)">
+        <member name="M:AuthUsers.Controllers.SignUpController.Post(Domain.Entities.UserEntity)">
              <summary>
              Creates a User.
              </summary>

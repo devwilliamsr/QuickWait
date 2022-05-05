@@ -17,6 +17,15 @@ C:\Users\DELL\source\repos\QuickWait\src\Services\Api.Remedies\obj\Debug\netcore
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.dll
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Services\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.genruntimeconfig.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\Remedies.exe
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\Remedies.deps.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\Remedies.runtimeconfig.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\Remedies.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\Remedies.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\Remedies.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -61,5 +70,8 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netc
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.RazorTargetAssemblyInfo.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.csproj.CopyComplete
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\staticwebassets\Remedies.StaticWebAssets.Manifest.cache
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\staticwebassets\Remedies.StaticWebAssets.xml
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.pdb
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.Remedies\obj\Debug\netcoreapp3.1\Remedies.genruntimeconfig.cache

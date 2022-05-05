@@ -33,6 +33,7 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\bin\Debug\net
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\bin\Debug\netcoreapp3.1\AuthUsers.runtimeconfig.dev.json
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\bin\Debug\netcoreapp3.1\AuthUsers.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\bin\Debug\netcoreapp3.1\AuthUsers.pdb
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\bin\Debug\netcoreapp3.1\AuthUsers.xml
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -85,7 +86,6 @@ C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\obj\Debug\net
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\obj\Debug\netcoreapp3.1\staticwebassets\AuthUsers.StaticWebAssets.Manifest.cache
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\obj\Debug\netcoreapp3.1\staticwebassets\AuthUsers.StaticWebAssets.xml
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.dll
+C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.xml
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.pdb
 C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.genruntimeconfig.cache
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\bin\Debug\netcoreapp3.1\AuthUsers.xml
-C:\Users\DELL\source\repos\QuickWait\src\Application\Api.AuthUsers\obj\Debug\netcoreapp3.1\AuthUsers.xml
